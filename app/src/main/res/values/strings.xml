@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HookTest</string>
+    <string name="desc_trick_start">启动未在清单文件中注册的activity</string>
+</resources>
